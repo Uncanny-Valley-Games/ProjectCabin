@@ -4,6 +4,7 @@ by Uncanny Valley Games
 > **Note for GDW 5 Fall Expo**
 >
 > We were unable to get Unreal Eninge to build our project. If you wish to look at the version made during Fall Expo, please find the `DO-NOT-WORK-fall-expo-2025` branch.
+>
 > All of the references in the game can also be found in our GDD (if we used any). 
 
 ## The Team
